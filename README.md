@@ -27,3 +27,6 @@ Nu är publishern skapad.
 
 Öppna igen "New Feed" och mata in buzzer1.
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/52c92ec065fc518337d830bfffe843143b7a75dd/Sk%C3%A4rmbild%202025-02-25%20193641.png)
+
+Gör samma sak för led1, modeControl och sroSensor.
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/427596f212302b74eb3e295f3dfa1cd1a33e93a1/Sk%C3%A4rmbild%202025-02-25%20194240.png)
