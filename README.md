@@ -39,3 +39,6 @@ Klicka på "Nästa steg" och konfigurera enligt bilden. Klicka sedan på "Create
 
 För sensorn, välj "Gauge". Klicka på "Nästa steg" och konfigurera enligt figuren nedan. Klicka sedan på "Create Block".
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/7ee0af4d1c6e98519f6cd5c6da4fce48789bad65/Sk%C3%A4rmbild%202025-02-25%20200003.png)
+
+För modeControl, välj "Toggle" och konfigurera enligt bilden.
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/35dcf49d6770a2277e7d9368c2900db53a9a64f3/Sk%C3%A4rmbild%202025-02-25%20200557.png)
