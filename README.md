@@ -24,3 +24,6 @@ Därefter klickar du på "Nästa" och ändrar färgerna och värdena enligt bild
 
 Nu är publishern skapad.
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/3f570a88f9542cbc3cbc8113ce5a8d8f4249e35f/Sk%C3%A4rmbild%202025-02-25%20193119.png)
+
+Öppna igen "New Feed" och mata in buzzer1.
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/52c92ec065fc518337d830bfffe843143b7a75dd/Sk%C3%A4rmbild%202025-02-25%20193641.png)
