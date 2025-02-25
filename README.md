@@ -21,3 +21,6 @@ I det nya blocket, välj:
 
 Därefter klickar du på "Nästa" och ändrar färgerna och värdena enligt bilden. Klicka sedan på "Create Block".
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/dea9bfcc0d99eefc74c964e6cd9dfd9527f4d898/Sk%C3%A4rmbild%202025-02-25%20192614.png)
+
+Nu är publishern skapad.
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/3f570a88f9542cbc3cbc8113ce5a8d8f4249e35f/Sk%C3%A4rmbild%202025-02-25%20193119.png)
