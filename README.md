@@ -33,4 +33,4 @@ Gör samma sak för led1, modeControl och sroSensor.
 
 Gå sedan tillbaka till dashboardet och klicka på "Settings". Skapa ett nytt block, välj "Toggle" och välj buzzer.
 Klicka på "Nästa steg" och konfigurera enligt bilden. Klicka sedan på "Create Block". Gör samma sak för led.
-![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/0f1f569e60dc0d78f657cd2797e08192dcfaeeb4/Sk%C3%A4rmbild%202025-02-25%20194333.png)
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/0f80af804d0ef85a54a832a289dbbd23f120fbd6/Sk%C3%A4rmbild%202025-02-25%20194333.png)
