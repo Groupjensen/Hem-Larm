@@ -7,3 +7,5 @@
 Sedan öppna "New Feed" och skriv in respektive namn och kod. Klicka sedan på "Create".
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/784ed3e393fd21c098b212541e20a713bf3ff52b/Sk%C3%A4rmbild%202025-02-25%20190903.png)
 
+Efter att alla feeds är skapade, öppna "Dashboard" och ta bort "Welcome Dashboard".
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/9a5c4841065cb271a92b51c523e41b6e1198f4db/Sk%C3%A4rmbild%202025-02-25%20190555.png)
