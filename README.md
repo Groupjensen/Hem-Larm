@@ -9,3 +9,6 @@ Sedan öppna "New Feed" och skriv in respektive namn och kod. Klicka sedan på "
 
 Efter att alla feeds är skapade, öppna "Dashboard" och ta bort "Welcome Dashboard".
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/9a5c4841065cb271a92b51c523e41b6e1198f4db/Sk%C3%A4rmbild%202025-02-25%20190555.png)
+
+Skapa sedan ett nytt dashboard med ett valfritt namn. Gå in på det nyskapade dashboardet och skapa ett nytt block.
+I[Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/95e8eb8549d452dae59dc62a0bbc123cdc642098/Sk%C3%A4rmbild%202025-02-25%20191350.png)_
