@@ -18,3 +18,6 @@ Skapa sedan ett nytt dashboard med ett valfritt namn. Gå in på det nyskapade d
 
 I det nya blocket, välj:
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/4a91aac7c151ebd6795a5e789e5fceac7d6777be/Sk%C3%A4rmbild%202025-02-25%20192218.png)
+
+Därefter klickar du på "Nästa" och ändrar färgerna och värdena enligt bilden. Klicka sedan på "Create Block".
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/dea9bfcc0d99eefc74c964e6cd9dfd9527f4d898/Sk%C3%A4rmbild%202025-02-25%20192614.png)
