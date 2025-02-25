@@ -15,3 +15,6 @@ Skapa sedan ett nytt dashboard med ett valfritt namn. Gå in på det nyskapade d
 
 Skapa sedan ett nytt dashboard med ett valfritt namn. Gå in på det nyskapade dashboardet och skapa ett nytt block.
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/c7b2c83c4d51855bfe7254cbdfff788fd640706e/Sk%C3%A4rmbild%202025-02-25%20191922.png)
+
+I det nya blocket, välj:
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/4a91aac7c151ebd6795a5e789e5fceac7d6777be/Sk%C3%A4rmbild%202025-02-25%20192218.png)
