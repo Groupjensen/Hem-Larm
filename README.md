@@ -35,5 +35,7 @@ Gå sedan tillbaka till dashboardet och klicka på "Settings". Skapa ett nytt bl
 Klicka på "Nästa steg" och konfigurera enligt bilden. Klicka sedan på "Create Block". Gör samma sak för led.
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/6fb1d8ac6069fb6906bf057ff30a823e18f4aeda/Sk%C3%A4rmbild%202025-02-25%20194924.png)
 
-För sensorn, välj "Gauge". Klicka på "Nästa steg" och konfigurera enligt figuren nedan. Klicka sedan på "Create Block".
 ![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/0cab3cdeb9324144868a3986d5be7a919982758b/Sk%C3%A4rmbild%202025-02-25%20195325.png)
+
+För sensorn, välj "Gauge". Klicka på "Nästa steg" och konfigurera enligt figuren nedan. Klicka sedan på "Create Block".
+![Image_ALT](https://github.com/Groupjensen/Hem-Larm/blob/7ee0af4d1c6e98519f6cd5c6da4fce48789bad65/Sk%C3%A4rmbild%202025-02-25%20200003.png)
